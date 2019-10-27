@@ -37,7 +37,7 @@ To change the sample change the content of sampleframes directory
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md]() file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/tintybot/CNN-BiLSTM-Model-Violence-Detection/blob/add-license-1/LICENSE.md) file for details
 
 ## Acknowledgments
 
